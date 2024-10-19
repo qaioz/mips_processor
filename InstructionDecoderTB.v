@@ -1,4 +1,4 @@
-// include
+// this include statement is only for linting not to show errors on my environment
 `include "InstructionDecoder.v"
 module InstructionDecoderTB;
 

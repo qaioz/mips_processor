@@ -1,0 +1,8 @@
+Here I will explain what the programs do
+
+add.txt:
+bytes 12-15 = -7
+bytes 0-3 lw 7, 0, 56 : rt = 7, rs = 0,  imm = 8
+bytes 4-7 addi 7, 7, 1 : rt = 8, rs = 7, imm = 1
+bytes 8-11 sw 8, 0, 60 : rt = 8, rs = 0, imm = 60
+

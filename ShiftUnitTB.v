@@ -1,3 +1,6 @@
+// This include is only linter to not show errors in my environment, must be removed
+`include "ShiftUnit.v"
+
 module ShiftUnitTB;
     reg  [31:0] a;
     reg  [ 4:0] sdist;

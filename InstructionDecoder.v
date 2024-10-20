@@ -30,6 +30,7 @@ module InstructionDecoder (
   wire [25:0] iindex;
   wire alur, alui;
   wire jtype;
+  wire ls;
 
 
   assign opc = instruction[31:26];
